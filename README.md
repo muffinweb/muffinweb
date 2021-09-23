@@ -1,10 +1,13 @@
-### Ugur Cengiz | Muffinweb 👋
+### Ugur Cengiz | Muffinweb 👨‍💻
 
 
 <a href="https://github.com/muffinweb">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=muffinweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffinweb&theme=dark"/>
 </a>
+<br><br>
+<p>
+<img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffinweb&theme=dark"/>
+</p>
 
 
 ### 📚 Technologies
