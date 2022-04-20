@@ -28,4 +28,4 @@
 </p>
 
 ## 📫 E-Mail
--  ugurcengiz@mail.com.tr 📬
+-  ugurcengiz.mail@gmail.com 📬
