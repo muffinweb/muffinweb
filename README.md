@@ -23,8 +23,8 @@
   <img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-orange?style=for-the-badge&logo=Codeigniter&logoColor=white"/>
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-007fff?style=for-the-badge&logo=Wordpress&logoColor=white"/>
   <br><br>
-  <img alt="Wordpress" src="https://img.shields.io/badge/Docker-007fff?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img alt="Wordpress" src="https://img.shields.io/badge/Kubernetes-066fe1?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-007fff?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-066fe1?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 </p>
 
 ## 📫 E-Mail
