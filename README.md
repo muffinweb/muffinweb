@@ -1,12 +1,6 @@
 ### Ugur Cengiz | Muffinweb 👨‍💻
 
-
-<p>
-<img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffinweb&theme=dark"/>
-</p>
-
-
-### 📚 Technologies
+### 📚 TechKit
 
 <br>
 
